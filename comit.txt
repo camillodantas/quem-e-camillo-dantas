@@ -35,5 +35,5 @@ Em até 1 minuto, sua página estará disponível em:
 atualiza arquivos
 
 git add .
-git commit -m "Atualiza index com versão simplificada"
+git commit -m "atualiza index"
 git push origin main
