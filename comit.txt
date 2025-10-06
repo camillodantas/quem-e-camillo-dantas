@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeira versão da página sobre mim"
+git branch -M main
+git remote add origin https://github.com/camillodantas/quem-e-camillo-dantas.git
+git push -u origin main
