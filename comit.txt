@@ -1,6 +1,39 @@
+tudo aqui  https://www.kimi.com/chat/d3hjgate9ornp1t5dggg
+
+
+
+cria sobe
+
 git init
 git add .
 git commit -m "Primeira versão da página sobre mim"
 git branch -M main
 git remote add origin https://github.com/camillodantas/quem-e-camillo-dantas.git
 git push -u origin main
+
+
+
+
+
+6. Ative o GitHub Pages
+Vá no repositório: https://github.com/camillodantas/quem-e-camillo-dantas
+Clique em Settings → Pages
+Em Source, escolha:
+→ Branch: main
+→ Folder: / (root)
+Clique em Save
+7. Acesse sua página
+Em até 1 minuto, sua página estará disponível em:
+👉 https://camillodantas.github.io/quem-e-camillo-dantas
+
+
+
+
+
+
+
+atualiza arquivos
+
+git add .
+git commit -m "Atualiza index com versão simplificada"
+git push origin main
